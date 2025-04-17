@@ -1,2 +1,4 @@
+modelo\conexion.class
 com\mycompany\artbellasoft\resources\JakartaEE10Resource.class
 com\mycompany\artbellasoft\JakartaRestConfiguration.class
+controlador\Svinicio_sesion.class
